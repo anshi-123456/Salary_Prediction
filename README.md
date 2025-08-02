@@ -13,7 +13,7 @@ This project predicts salaries based on features like education, experience, com
 - [Model Details](#-model-details)
 - [Sample Prediction](#-sample-prediction)
 - [License](#-license)
-- [Acknowledgements](#-acknowledgements)
+- [Dataset](#-dataset-kaggle)
 
 ---
 
