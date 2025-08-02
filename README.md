@@ -116,6 +116,18 @@ The model is trained using ensemble learning techniques to improve prediction ac
 
 ---
 
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.  
+You are free to use, modify, and distribute this software, with proper attribution.
+
+🔗 See the [LICENSE](./LICENSE) file for full details.
+
+---
+
+
 ## 📂 Dataset
 
 The dataset used for this project was sourced from Kaggle:
