@@ -132,7 +132,7 @@ You are free to use, modify, and distribute this software, with proper attributi
 
 The dataset used for this project was sourced from Kaggle:
 
-🔗 https://www.kaggle.com/datasets/rkiattisak/salaly-prediction-for-beginer[Download The Dataset]
+🔗 https://www.kaggle.com/datasets/rkiattisak/salaly-prediction-for-beginer   [Download The Dataset]
 
 It includes features such as:
 - Age
